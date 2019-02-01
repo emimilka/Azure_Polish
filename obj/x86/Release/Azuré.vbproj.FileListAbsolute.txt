@@ -1,0 +1,16 @@
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\bin\x86\Release\Azuré.exe.config
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\bin\x86\Release\Azuré.exe
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\bin\x86\Release\Azuré.pdb
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\bin\x86\Release\Azuré.xml
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\bin\x86\Release\MetroFramework.Design.dll
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\bin\x86\Release\MetroFramework.dll
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\bin\x86\Release\MetroFramework.Fonts.dll
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.vbprojAssemblyReference.cache
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.Main.resources
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.Resources.resources
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.vbproj.GenerateResource.cache
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.vbproj.CoreCompileInputs.cache
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.vbproj.CopyComplete
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.exe
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.xml
+C:\Users\Marce\Downloads\Azure-master\Azure-master\Azure\obj\x86\Release\Azuré.pdb
