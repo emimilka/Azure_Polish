@@ -1,2 +1,2 @@
-# Ten repo może być już nieaktualne, a poza tym program może już nie działać
-Jak szukasz podobnych programów, to jedyne, które mogę polecić to Internet Download Manager.
+# Program nie jest obecnie wspierany oraz może już nie działać
+Możesz użyć z innych alternatyw jak Free Download Manager czy JDownloader 2
